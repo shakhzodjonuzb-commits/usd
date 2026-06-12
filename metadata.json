@@ -1,0 +1,6 @@
+{
+  "name": "Agrobank Rates",
+  "description": "Agrobank milliy va xalqaro valyuta kurslari hamda valyuta konvertori ilovasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
